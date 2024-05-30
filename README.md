@@ -3,4 +3,4 @@
 DENEYAPKART İLE BLUETOOTH KULAKLIK YAPIMI 
 Detaylar KGS TEKNOLOJİ'de
 
-[Buradan](kgs.infinityfreeapp.com)'dan detalı bilgi alabilirsiniz
+[Buradan](https://kgs.infinityfreeapp.com/blog_bluetooth_kulaklik_yapimi.html)'dan detalı bilgi alabilirsiniz
